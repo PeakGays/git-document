@@ -12,4 +12,5 @@ local > global > system
 
 
 #### 注意
-github根据邮箱识别提交记录，请确保使用的config邮箱（user.email）对应github的邮箱
+github根据邮箱和账户识别提交记录，请确保使用的config邮箱（user.email）对应github的邮箱
+以及user.name对应github的账户名称
